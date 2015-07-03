@@ -1,0 +1,10 @@
+D:\Source\Testii\3Tire\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\Source\Testii\3Tire\DataAccess\bin\Debug\DataAccess.dll
+D:\Source\Testii\3Tire\DataAccess\bin\Debug\DataAccess.pdb
+D:\Source\Testii\3Tire\DataAccess\obj\Debug\DataAccess.dll
+D:\Source\Testii\3Tire\DataAccess\obj\Debug\DataAccess.pdb
+Z:\3Tire(1)\3Tire\DataAccess\bin\Debug\DataAccess.dll
+Z:\3Tire(1)\3Tire\DataAccess\bin\Debug\DataAccess.pdb
+Z:\3Tire(1)\3Tire\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+Z:\3Tire(1)\3Tire\DataAccess\obj\Debug\DataAccess.dll
+Z:\3Tire(1)\3Tire\DataAccess\obj\Debug\DataAccess.pdb

@@ -1,0 +1,14 @@
+D:\Source\Testii\3Tire\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\Source\Testii\3Tire\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\Source\Testii\3Tire\BusinessLogic\bin\Debug\DataAccess.dll
+D:\Source\Testii\3Tire\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\Source\Testii\3Tire\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+D:\Source\Testii\3Tire\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\Source\Testii\3Tire\BusinessLogic\obj\Debug\BusinessLogic.pdb
+Z:\3Tire(1)\3Tire\BusinessLogic\bin\Debug\BusinessLogic.dll
+Z:\3Tire(1)\3Tire\BusinessLogic\bin\Debug\BusinessLogic.pdb
+Z:\3Tire(1)\3Tire\BusinessLogic\bin\Debug\DataAccess.dll
+Z:\3Tire(1)\3Tire\BusinessLogic\bin\Debug\DataAccess.pdb
+Z:\3Tire(1)\3Tire\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+Z:\3Tire(1)\3Tire\BusinessLogic\obj\Debug\BusinessLogic.dll
+Z:\3Tire(1)\3Tire\BusinessLogic\obj\Debug\BusinessLogic.pdb
